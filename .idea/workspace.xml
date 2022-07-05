@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d5dc8bd-6715-4f74-a9f5-264dfa92459f" name="Changes" comment="Perfect formatting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3d5dc8bd-6715-4f74-a9f5-264dfa92459f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/MyJavaLessonPack/services/SQRService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/MyJavaLessonPack/services/SQRService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/MyJavaLessonPack/services/SQRServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/MyJavaLessonPack/services/SQRServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/paramsForTests.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/paramsForTests.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,13 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656993533206</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="More variable data">
+      <created>1656997185332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656997185332</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Only correct expected results" />
     <MESSAGE value="Perfect formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Perfect formatting" />
+    <MESSAGE value="More variable data" />
+    <option name="LAST_COMMIT_MESSAGE" value="More variable data" />
   </component>
 </project>
