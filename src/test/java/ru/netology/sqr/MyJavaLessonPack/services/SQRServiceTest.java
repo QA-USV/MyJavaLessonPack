@@ -8,10 +8,10 @@ public class SQRServiceTest {
 
     @ParameterizedTest
     @CsvFileSource(files = "src/test/resources/paramsForTests.csv")
-    public void shouldCulcRange(int minRange, int maxRange, int lowerLimitBR, int upperLimitBR, int expected) {
+    public void shouldCulcRange(int expected, int lowerLimitBR, int upperLimitBR) {
         SQRService service = new SQRService();
 
-        int actual = service.culculate(minRange, maxRange, lowerLimitBR, upperLimitBR);
+        int actual = service.culculate(lowerLimitBR, upperLimitBR);
 
         Assertions.assertEquals(expected, actual);
     }
