@@ -10,11 +10,11 @@ public class SQRService {
         int i;
         for (i = minRange; i <= maxRange; i++) {
             if (i * i >= lowerLimit) {
-                if (i * i <= upperLimit)
+                if (i * i <= upperLimit) {
                     amountSQRs++;
+                }
             }
         }
         return amountSQRs;
     }
 }
-
